@@ -1,1 +1,1 @@
-# version-control-practical-tasks
+# practical-tasks-new-repo
